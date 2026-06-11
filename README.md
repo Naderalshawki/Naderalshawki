@@ -2,6 +2,8 @@
 
 **AI Engineer | Computer Vision Developer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Naderalshawki&color=blue)
+
 ---
 
 ## 🚀 What I Do
@@ -43,8 +45,34 @@
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
+
+| | |
+| :--- | :--- |
+| ![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naderalshawki&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naderalshawki&layout=compact&theme=dark) |
+
+---
+
+## 📈 Contribution Graph
+
+![Nader's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naderalshawki&theme=github-dark)
+
+---
+
+## 🏆 GitHub Achievements
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=Naderalshawki&theme=darkhub&no-frame=true&row=1)
+
+---
+
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nader-al-shawky/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naderalshawki)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naderalshawki@gmail.com)
+
+---
+
+**⭐ Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/Naderalshawki?style=social)
+
+**💻 Total Commits (last year):** ![Commits](https://img.shields.io/github/commit-activity/y/Naderalshawki/Naderalshawki?style=social)
