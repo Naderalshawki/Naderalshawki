@@ -1,17 +1,16 @@
 <!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
 
-# 👋 Hi, I'm Nader Al Shawki
-
-**AI Engineer | Computer Vision Developer**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Naderalshawki&color=blue&style=flat" alt="Profile Views">
+<!-- Typing SVG (الكتابة الديناميكية) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Nader+Al+Shawki;AI+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
 
-## 📌 About Me
+## 👋 About Me
+
+**AI Engineer | Computer Vision Developer | Deep Learning Enthusiast**
 
 - 🎓 Final-year AI Engineering student at **Al-Razi University, Yemen**
 - 🔭 Building production-grade **Computer Vision** systems
@@ -19,6 +18,17 @@
 - 🐳 Containerizing AI apps with **Docker**
 - 📊 Creating interactive dashboards with **Power BI**
 - 🌱 Currently learning **LLMs**, **RAG**, **LangChain**, **AI Agents**
+
+---
+
+## 📌 What I Do
+
+- Build production-grade **AI-powered applications**
+- Develop **Computer Vision** systems (YOLOv8, PyTorch, OpenCV)
+- Design **REST APIs** with FastAPI
+- Containerize apps with **Docker**
+- Create **interactive dashboards** with Power BI
+- Currently learning **LLM systems (RAG, Agents)**
 
 ---
 
@@ -63,7 +73,6 @@
 | 😀 **Face Detection & Emotion Recognition** | OpenCV, Deep Learning | Real-time face detection, age estimation, emotion recognition |
 | 🍽️ **Restaurant Website** | HTML5, CSS3, JavaScript | Fully responsive restaurant website with interactive UI |
 | 📊 **Sales Profit Analysis Dashboard** | Power BI, DAX | Interactive dashboard for sales and profit analytics |
-| 💧 **Smart Water Yemen** | AI, Agriculture (Concept) | AI-based irrigation optimization using crop, soil, and weather data |
 
 ---
 
@@ -87,7 +96,7 @@
 
 ---
 
-## 📱 Connect with Me
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nader-al-shawky/">
