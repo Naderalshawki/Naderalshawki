@@ -3,7 +3,7 @@
 
 <!-- Typing SVG (الكتابة الديناميكية) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Nader+Al+Shawki;AI+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Nader+Al+Shawki;AI+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;LLMS|RAG|" alt="Typing SVG">
 </p>
 
 ---
