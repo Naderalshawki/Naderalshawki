@@ -1,20 +1,20 @@
-<!-- Header Wave Neon -->
+<!-- Ultra-Gradient Header with Isolated Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF0055&height=180&section=header" width="100%" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A855F7,100:EC4899&height=220&section=header&text=NADER%20AL%20SHAWKI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Nader Al Shawki">
 </p>
 
-<!-- Dynamic Animated Name & Titles (اسمك يروح ويجي بشكل ديناميكي) -->
+<!-- Dynamic Animated Projects & Disciplines Typing -->
 <p align="center">
   <a href="https://github.com/Naderalshawki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&lines=NADER+AL+SHAWKI;AI+%26+Deep+Learning+Specialist;Big+Data+ELT+Architect+(30M%2B+Records);Flutter+%26+Cross-Platform+Engineer;Edge+AI+%26+Embedded+IoT+Systems;Computer+Vision+%26+YOLOv8+Deployment" alt="Nader Al Shawki Animated Typing">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&lines=Distributed+Big+Data+ELT+Pipeline+(30M%2B+Records);Flutter+Cross-Platform+Mobile+App+Architecture;Intelligent+Edge+AI+%26+IoT+Surveillance+Hub;YOLOv8+Plant+Disease+Diagnostic+API;Pneumonia+Detection+Clinical+AI;Real-Time+Facial+Emotion+%26+Demographics+Vision;Sales+%26+Profitability+Power+BI+Analytics" alt="Animated Project Showcase">
   </a>
 </p>
 
-<!-- Live Profile Metrics -->
+<!-- Live Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naderalshawki&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Pipelines-FF0055?style=flat-square" alt="Current Status" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%7C%20Big%20Data%20%7C%20IoT%20%7C%20Flutter-8A2BE2?style=flat-square" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Focus-High--Scale%20AI%20%26%20Pipelines-EC4899?style=flat-square" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Stack-AI%20%7C%20Data%20%7C%20Flutter%20%7C%20IoT-A855F7?style=flat-square" alt="Core Stack" />
   <img src="https://img.shields.io/badge/Location-Sanaa%2C%20Yemen-00FF66?style=flat-square" alt="Location" />
 </p>
 
