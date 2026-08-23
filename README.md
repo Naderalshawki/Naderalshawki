@@ -1,6 +1,6 @@
-<!-- Header Neon Wave with Dynamic Animation -->
+<!-- Header Neon Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,9,11,13&height=220&section=header&text=NADER%20AL%20SHAWKI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Distributed%20Big%20Data%20Architect%20%7C%20Flutter%20%26%20IoT%20Developer&descSize=18&descAlignY=62&descColor=00F0FF" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF0055&height=220&section=header&text=NADER%20AL%20SHAWKI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Architect%20%7C%20Flutter%20%26%20IoT%20Developer&descSize=18&descAlignY=62&descColor=00F0FF" width="100%" alt="Header Banner">
 </p>
 
 <!-- Dynamic Animated Typing SVG -->
