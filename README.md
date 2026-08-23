@@ -1,37 +1,36 @@
-<!-- Header Neon Banner -->
+<!-- Header Wave Neon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF0055&height=220&section=header&text=NADER%20AL%20SHAWKI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Architect%20%7C%20Flutter%20%26%20IoT%20Developer&descSize=18&descAlignY=62&descColor=00F0FF" width="100%" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:FF0055&height=180&section=header" width="100%" alt="Header Banner">
 </p>
 
-<!-- Dynamic Animated Typing SVG -->
+<!-- Dynamic Animated Name & Titles (اسمك يروح ويجي بشكل ديناميكي) -->
 <p align="center">
   <a href="https://github.com/Naderalshawki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&lines=AI+%26+Deep+Learning+Specialist;Big+Data+ELT+Pipelines+(PySpark+%2B+MongoDB);Flutter+%26+Cross-Platform+App+Developer;Edge+AI+%26+Embedded+IoT+Systems;Computer+Vision+%26+YOLOv8+Deployment;LLMs%2C+RAG+%26+Autonomous+AI+Agents" alt="Dynamic Typing Subtitle">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&lines=NADER+AL+SHAWKI;AI+%26+Deep+Learning+Specialist;Big+Data+ELT+Architect+(30M%2B+Records);Flutter+%26+Cross-Platform+Engineer;Edge+AI+%26+Embedded+IoT+Systems;Computer+Vision+%26+YOLOv8+Deployment" alt="Nader Al Shawki Animated Typing">
   </a>
 </p>
 
-<!-- Dynamic Badges / Live Metrics -->
+<!-- Live Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naderalshawki&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Pipelines-FF0055?style=flat-square" alt="Current Status" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%7C%20Data%20%7C%20IoT%20%7C%20Mobile-8A2BE2?style=flat-square" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Specialization-AI%20%7C%20Big%20Data%20%7C%20IoT%20%7C%20Flutter-8A2BE2?style=flat-square" alt="Specialization" />
   <img src="https://img.shields.io/badge/Location-Sanaa%2C%20Yemen-00FF66?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-## 👨‍💻 🌟 About Me & Executive Summary
+## 👨‍💻 🌟 About Me
 
 **AI Engineer | Big Data Systems Architect | Flutter Developer | IoT & Edge AI Innovator**
 
 - 🎓 Final-year AI & Software Engineering student at **Al-Razi University, Sana'a, Yemen**.
-- 🚀 Engineered enterprise distributed **ELT Data Pipelines** processing **30,000,000+** records ($12.65\text{ GB}$) using **PySpark** & **MongoDB**.
-- 📱 Developing high-performance **Flutter & Dart** cross-platform mobile apps featuring reactive architectures and automated testing.
-- ⚡ Architecting **Edge AI & Embedded IoT Systems** integrating microcontrollers (ESP32 / Arduino / Raspberry Pi) with real-time sensory perception.
-- 👁️ Building production-grade **Computer Vision** pipelines (YOLOv8, PyTorch, OpenCV) with containerized deployment.
-- 🤖 Researching and orchestrating **Autonomous AI Agents**, **Retrieval-Augmented Generation (RAG)**, and **LangChain** workflows.
-- 🐳 Containerizing modular microservices with **Docker** and serving high-throughput APIs via **FastAPI**.
-- 📊 Designing multidimensional business intelligence and analytics dashboards using **Power BI** and advanced DAX.
+- 🚀 Engineered enterprise distributed **ELT Data Pipelines** processing **30,000,000+** records (12.65 GB) using **PySpark** & **MongoDB**.
+- 📱 Developing high-performance **Flutter & Dart** cross-platform mobile apps featuring reactive state management and automated widget testing.
+- ⚡ Architecting **Edge AI & Embedded IoT Systems** integrating microcontrollers (ESP32 / Arduino) with real-time sensory perception.
+- 👁️ Building production-grade **Computer Vision** pipelines (YOLOv8, PyTorch, OpenCV) with Docker containerization.
+- 🤖 Researching and orchestrating **Autonomous AI Agents**, **RAG (Retrieval-Augmented Generation)**, and **LangChain** workflows.
+- 📊 Designing interactive multidimensional business intelligence dashboards with **Power BI** & advanced DAX.
 
 ---
 
@@ -63,7 +62,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart_SDK-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/State_Management-Bloc_/_Provider-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bloc_/_Provider-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -94,7 +93,7 @@
   <img src="https://img.shields.io/badge/AI_Agents-4285F4?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
-### 🚢 DevOps, Deployment & Tools
+### 🚢 Deployment, APIs & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -104,18 +103,68 @@
 
 ---
 
-## 📂 🏆 Featured Production Projects
+## 📂 🏆 Featured Engineering Projects
 
-| Project & System | Tech Stack | Architectural Description |
-| :--- | :--- | :--- |
-| ⚡ **30M Distributed Big Data ELT Pipeline** | `PySpark`, `MongoDB`, `Python`, `PyTest` | Enterprise distributed pipeline ingesting and validating 30M records ($12.65\text{ GB}$). Features 8 quality rules, quarantine isolation, and idempotent upserts. |
-| 📱 **E-Commerce Cross-Platform Mobile App** | `Flutter`, `Dart`, `Firebase`, `REST API` | Full-stack e-commerce mobile experience featuring state management (Bloc), caching, responsive grid layouts, and integrated payment workflows. |
-| 🌐 **Smart Edge AI & IoT Surveillance Hub** | `IoT`, `ESP32`, `OpenCV`, `MQTT`, `FastAPI` | Multi-node sensor network with embedded edge intelligence, telemetry streaming via MQTT, and automated alert triggering. |
-| 🍅 **Tomato Leaf Disease Diagnostic API** | `YOLOv8`, `PyTorch`, `FastAPI`, `Docker` | Agricultural diagnosis microservice detecting multiple crop diseases with high-speed inference and containerized Docker delivery. |
-| 🫁 **Medical Pneumonia Detection System** | `PyTorch`, `CNN`, `Medical Imaging` | Deep convolutional neural network for automated diagnosis from chest X-ray radiographs with high diagnostic sensitivity. |
-| 😀 **Emotion & Demographic Vision Suite** | `OpenCV`, `Deep Learning`, `Python` | Real-time computer vision system performing multi-face detection, age group estimation, and facial sentiment analysis. |
-| 🍽️ **Interactive Gourmet Restaurant Web Portal** | `HTML5`, `CSS3`, `JavaScript` | Modern, responsive frontend application with interactive menus, fluid transitions, and cross-browser responsiveness. |
-| 📊 **Enterprise Sales Profit Analytics Dashboard** | `Power BI`, `DAX`, `ETL Pipelines` | Business analytics platform calculating multidimensional revenue metrics, margin trends, and sales performance indicators. |
+<br>
+
+### 1. ⚡ High-Performance Distributed ELT Data Pipeline (30 Million Orders)
+> **Stack:** `PySpark` • `MongoDB` • `Python` • `PyTest` • `Distributed Systems`
+
+* Built a zero-pandas distributed ingestion pipeline handling **30M rows (~12.65 GB)**.
+* Implemented strict schema validation, 8 automated business data quality rules, and anomaly quarantine routing.
+* Designed an idempotent upsert engine verifying zero duplicated records and complete mathematical balance.
+* **Repository:** [`Naderalshawki/midterm-data-pipeline`](https://github.com/Naderalshawki/midterm-data-pipeline)
+
+---
+
+### 2. 📱 Cross-Platform E-Commerce Mobile Application Architecture
+> **Stack:** `Flutter` • `Dart` • `Firebase` • `REST APIs` • `Bloc State Management`
+
+* Developed a scalable cross-platform mobile app using **Flutter & Dart** with smooth 60fps UI performance.
+* Implemented modular clean architecture, dynamic product catalogs, offline caching, and secure API auth.
+* Comprehensive testing with automated unit & widget test suites.
+
+---
+
+### 3. 🌐 Intelligent Edge AI & IoT Surveillance Hub
+> **Stack:** `IoT` • `ESP32` • `Arduino` • `MQTT` • `OpenCV` • `FastAPI`
+
+* Designed an embedded sensory network using **ESP32** microcontrollers communicating over high-speed **MQTT**.
+* Integrated lightweight edge computer vision algorithms for real-time occupancy and motion detection.
+* Connected sensor telemetry directly to cloud APIs for dynamic dashboard visualization.
+
+---
+
+### 4. 🔬 Agricultural Plant Pathology & Leaf Disease Diagnostics API
+> **Stack:** `YOLOv8` • `PyTorch` • `FastAPI` • `Docker` • `Computer Vision`
+
+* Engineered a custom object detection and classification pipeline for multi-class plant leaf disease identification.
+* Deployed as a high-throughput microservice wrapped in **Docker** containers via **FastAPI** endpoints.
+* Optimized inference pipelines achieving sub-second diagnostic latency.
+
+---
+
+### 5. 🫁 Deep Learning Clinical Radiograph (Pneumonia) Detection
+> **Stack:** `PyTorch` • `CNN` • `Medical Imaging` • `Computer Vision`
+
+* Trained deep convolutional neural networks on chest X-ray datasets for diagnostic screening.
+* Integrated Grad-CAM feature heatmaps to provide explainable AI visual proofs for clinical classification.
+
+---
+
+### 6. 😀 Real-Time Facial Sentiment & Demographic Vision System
+> **Stack:** `OpenCV` • `Deep Learning` • `Python` • `Inference Pipeline`
+
+* Built an asynchronous real-time video stream processor for facial recognition, age bracket estimation, and emotion scoring.
+* High frame rate inference pipeline optimized for local hardware accelerators.
+
+---
+
+### 7. 📊 Enterprise Sales & Profitability Business Intelligence Dashboard
+> **Stack:** `Power BI` • `DAX` • `Data Modeling` • `ETL`
+
+* Modeled relational transactional schemas calculating net profit velocity, cohort retention, and sales KPI forecasts.
+* Built dynamic DAX measures supporting multi-currency normalization and scenario simulations.
 
 ---
 
@@ -146,7 +195,7 @@
 
 ---
 
-## 📊 ⏳ Weekly Development Breakdown
+## 📊 ⏳ Weekly Engineering Breakdown
 
 ```text
 Data Engineering (PySpark/MongoDB)  5 days    ████████████████████▓░░░░    85%
